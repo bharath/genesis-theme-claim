@@ -1,13 +1,13 @@
 {
-  "name": "theme-claim",
-  "version": "0.2.0",
-  "description": "WP theme renamer",
-  "repository": "m-e-h/theme-claim",
-  "author": "Marty Helmick",
-  "license": "GPL-2.0+",
+  "name": "genesis-theme-claim",
+  "version": "0.1.0",
+  "description": "Genesis child theme renamer",
+  "repository": "seothemes/genesis-theme-claim",
+  "author": "SEO Themes",
+  "license": "GPL-3.0-or-later",
   "main": "index.js",
   "bin": {
-    "theme-claim": "./bin/cli.js"
+    "genesis-theme-claim": "./bin/cli.js"
   },
   "scripts": {
     "test": "npx ava",

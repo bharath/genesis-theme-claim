@@ -11,14 +11,14 @@ const themeRoot = getConf.themeRoot;
 const cli = meow(
 	`
 	Usage
-	  $ theme-claim
+	  $ gensis-theme-claim
 
 	Options
 		--config=<path>  Path to config [Default: ./themeclaim.json]
 		--ignore=<path>  Specify an additional file or glob to ignore
 
 	Examples
-	  $ theme-claim --config='/build/conf.json' --ignore='**/*.ignore'
+	  $ gensis-theme-claim --config='/build/conf.json' --ignore='**/*.ignore'
 `,
 	{
 		flags: {
