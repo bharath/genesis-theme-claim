@@ -53,13 +53,12 @@ Change the data to match your current theme data exactly _(this is the data you'
 ```json
 {
 	"from": {
-		"Name": "Mythic",
-		"Description": "An awesome starter theme for WordPress.",
-		"Namespace": "Mythic",
-		"Uri": "https://themehybrid.com/themes/mythic",
-		"Author": "Justin Tadlock",
-		"AuthorEmail": "justintadlock@gmail.com",
-		"AuthorUri": "https://themehybrid.com"
-	}
+    		"Name": "Genesis Sample",
+    		"Description": "This is the sample theme created for the Genesis Framework.",
+    		"Namespace": "Genesis Sample",
+    		"Uri": "https://demo.studiopress.com/",
+    		"Author": "StudioPress",
+    		"AuthorUri": "https://studiopress.com/"
+    	}
 }
 ```
