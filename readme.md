@@ -42,7 +42,7 @@ $ genesis-theme-claim --help
 Run the `"script"`
 
 ```shell
-$ yarn rename
+$ npm run rename
 ```
 
 By default, the config is set up for use with the [Genesis Sample Theme](https://github.com/studiopress/genesis-sample).
