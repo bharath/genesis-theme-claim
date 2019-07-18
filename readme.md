@@ -1,6 +1,6 @@
 # Genesis Theme Claim
 
-> Rename the Genesis Sample theme with a quick cli walk-through.
+> Renames the Genesis Sample theme and resets the version number with a quick cli walk-through.
 
 [![Version][version-badge]][npm]
 
@@ -62,3 +62,7 @@ Change the data to match your current theme data exactly _(this is the data you'
     	}
 }
 ```
+
+## Version
+
+The version number is automatically reset to `1.0.0` across all theme files including `@since` tags in PHP comments.
