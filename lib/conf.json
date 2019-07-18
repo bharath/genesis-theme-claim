@@ -5,5 +5,12 @@
     "Uri": "https://demo.studiopress.com/",
     "Author": "StudioPress",
     "AuthorUri": "https://studiopress.com/"
+  },
+  "to": {
+    "Name": "Cool",
+    "Description": "This is cool.",
+    "Uri": "https://cool.com",
+    "Author": "Cool Themes",
+    "AuthorUri": "https://coolthemes.com"
   }
 }
