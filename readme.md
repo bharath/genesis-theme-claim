@@ -58,7 +58,7 @@ Change the data to match your current theme data exactly _(this is the data you'
     		"Namespace": "Genesis Sample",
     		"Uri": "https://demo.studiopress.com/",
     		"Author": "StudioPress",
-    		"AuthorUri": "https://studiopress.com/"
+    		"AuthorUri": "https://www.studiopress.com/"
     	}
 }
 ```
